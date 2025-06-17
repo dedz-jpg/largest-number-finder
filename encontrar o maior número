@@ -1,7 +1,7 @@
-# Largest Number Finder 🔢
+# Largest Number Finder 
 
-Este é um projeto simples que desenvolvi enquanto estudo **lógica de programação** com Python.  
-O objetivo aqui foi resolver um problema básico, mas super importante pra quem está começando: **descobrir o maior número entre três valores informados pelo usuário**.
+Este é um projeto simples que desenvolvi enquanto estudo lógica de programação com Python.  
+O objetivo aqui foi resolver um problema básico, mas super importante pra quem está começando: descobrir o maior número entre três valores informados pelo usuário.
 
 ---
 
@@ -59,7 +59,6 @@ Saída:
 
 12
 
-
 ### Exemplo 3 (dois números iguais):
 
 Entrada:
@@ -72,13 +71,12 @@ Saída:
 
 20
 
-
 ---
 
 ## Por que fiz esse projeto?
 
-Esse projeto faz parte da minha fase de aprendizado em lógica e programação, dentro do curso **Coding Essentials – Logic Building for Beginners (Udemy)**.  
-Meu foco com ele foi praticar **condições lógicas**, **comparações** e estruturar um problema de forma simples, mas funcional.
+Esse projeto faz parte da minha fase de aprendizado em lógica e programação, dentro do curso Coding Essentials – Logic Building for Beginners (Udemy).  
+Meu foco com ele foi praticar condições lógicas, comparações e estruturar um problema de forma simples, mas funcional.
 
 ---
 
@@ -91,7 +89,7 @@ Meu foco com ele foi praticar **condições lógicas**, **comparações** e estr
 ## Sobre mim:
 
 Sou André Ricardo, estudante em transição de carreira para a área de Tecnologia da Informação.  
-Atualmente estou focado em aprender **lógica de programação**, **Python** e também explorando áreas como **inteligência artificial** e **montagem de hardware**.
+Atualmente estou focado em aprender lógica de programação, Python e também explorando áreas como inteligência artificial e montagem de hardware.
 
 
 
